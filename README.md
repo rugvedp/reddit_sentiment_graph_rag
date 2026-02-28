@@ -2,7 +2,7 @@
 
 A brand sentiment analysis application that scrapes social media data, processes sentiment information, and visualizes brand insights using a graph-based approach with Neo4j.
 
-Repository: https://github.com/rugvedp/brand_sentiment_graph_rag
+Repository: https://github.com/rugvedp/reddit_sentiment_graph_rag
 
 ![demo gif](ezgif-784871d70fcf98b1.gif)
 
