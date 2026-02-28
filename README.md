@@ -6,6 +6,8 @@ Repository: https://github.com/rugvedp/brand_sentiment_graph_rag.git
 
 ![demo gif](ezgif-784871d70fcf98b1.gif)
 
+![Neo4j Graph](image.png)
+
 ## Features
 
 - 📊 **Real-time Sentiment Analysis** - Analyze brand sentiment from Reddit
