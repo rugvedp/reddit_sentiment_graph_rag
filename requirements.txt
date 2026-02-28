@@ -1,0 +1,12 @@
+requests
+neo4j
+groq
+pydantic
+pydantic-settings
+sentence-transformers
+scikit-learn
+torch
+psutil
+python-dotenv
+streamlit
+pyvis
