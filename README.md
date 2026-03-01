@@ -4,11 +4,11 @@ A brand sentiment analysis application that scrapes social media data, processes
 
 Repository: https://github.com/rugvedp/reddit_sentiment_graph_rag
 
-![demo gif](ezgif-784871d70fcf98b1.gif)
+![demo gif](assets/ezgif-784871d70fcf98b1.gif)
 
 Neo4j Database
 
-![Neo4j Graph](image.png)
+![Neo4j Graph](assets/image.png)
 
 ## Features
 
